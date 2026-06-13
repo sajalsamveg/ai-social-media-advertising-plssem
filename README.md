@@ -46,6 +46,6 @@ Key constructs explored: `Algorithmic Paranoia` · `Algorithmic Serendipity` · 
 ```
 📁 iapc-ai-social-media-ads/
 ├── README.md
-├── iapc_SEM_VI.pdf
+├── ai-social-media-advertising-plssem_Report.pdf
 └── ai-social-media-advertising-plssem.ipynb
 ```
